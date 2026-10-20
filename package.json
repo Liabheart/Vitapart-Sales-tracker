@@ -1,0 +1,10 @@
+{
+  "name": "vitaparts-operations",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Vitaparts sales execution, OTIF and inventory platform",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "nodemailer": "6.9.14"
+  }
+}
